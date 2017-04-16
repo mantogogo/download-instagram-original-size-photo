@@ -2,7 +2,7 @@
 A JavaScript code to download original size photo on Instagram web version.
 
 
-##How to
+## How to
 Just add this code to your bookmark, that's it.
 
 ```javascript
